@@ -1,3 +1,4 @@
+
 # Getting Started
 
 *Follow these steps to get Local Dining Guide up and running on your local machine.*
@@ -51,6 +52,26 @@ Project Logo image (You can use any logo)
 `cd local-dining-guide                                       `
 3. **Launch the Application:** Open the index.html file in your web browser. 
 `cd local-dining-guide                                       `
+
+
+# BugBusters
+## Contact Information
+
+For any inquiries or support, please email us at support@localdiningguide.com or visit our
+
+website http://www.localdiningguide.com.
+
+### Follow us on social media: (Add Icons)
+
+**Twitter**: @localdiningguide
+
+**Facebook:** LocalDiningGuide
+
+**Instagram:** @localdiningguide
+
+We hope you enjoy using Local Dining Guide to discover fantastic dining options in your area! Bon appétit!
+
+
 # Local Dining Guide
 
 Web Based Dining Information Solution
@@ -76,5 +97,7 @@ Project Logo image (You can use any logo)
 Local Dining Guide is a user-friendly platform that aims to connect users with local dining options. It provides a rich and intuitive interface to search for restaurants, view their menus, read reviews, and get directions. With a focus on enhancing the dining experience, this software solution strives to bridge the gap between diners and local eateries
 
 
+
 Local Dining Guide is a user-friendly platform that aims to connect users with local dining options. It provides a rich and intuitive interface to search for restaurants, view their menus, read reviews, and get directions. With a focus on enhancing the dining experience, this software solution strives to bridge the gap between diners and local eateries
+
 
