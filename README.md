@@ -13,4 +13,4 @@ website http://www.localdiningguide.com.
 
 **Instagram:** @localdiningguide
 
-We hope you enjoy using Local Dining Guide to discover fantastic dining options in your area! Bon appétitt!
+We hope you enjoy using Local Dining Guide to discover fantastic dining options in your area! Bon appétit!
